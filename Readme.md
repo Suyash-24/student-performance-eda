@@ -49,6 +49,12 @@ that impact overall student performance.
 
 ---
 
+## 📊 Dashboard
+
+![Power BI Dashboard](dashboard.png)
+
+---
+
 ## 📁 Project Structure
 student-performance-eda/
 │
